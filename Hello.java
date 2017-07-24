@@ -4,5 +4,6 @@ System.out.println("Testing Docker");
 System.out.println("With java app.");
 System.out.println("compile and run java app.");
 System.out.println("new line added.");
+System.out.println("new second line added.");
 }
 }
